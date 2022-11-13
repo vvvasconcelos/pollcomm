@@ -1,0 +1,14 @@
+name: pc
+channels:
+    - conda-forge
+dependencies:
+  - python=3.9.7
+  - matplotlib=3.5.0
+  - networkx=2.6.3
+  - numba=0.54.1
+  - numpy=1.20.3
+  - scipy=1.7.3
+  - tqdm=4.62.3
+  - cycler=0.11.0
+  - multiprocess=0.70.12.2
+  - salib=1.4.5
